@@ -1,0 +1,13 @@
+Установить Visual Studio Code
+Создать шаблон интернет-магазина
+Использовать flex/grid
+
+Ссылки на полезные источники:
+
+FlexBox - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Grid    - https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Видео по FlexBox - https://www.youtube.com/watch?v=38bMnJ2l4bg
+Видео по Grid    - https://www.youtube.com/watch?v=M7m_3b1Jjzc
+
+Установка и обзор Visual Studio Code - https://www.youtube.com/watch?v=paA-leudslo
